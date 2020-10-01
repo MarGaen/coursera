@@ -1,6 +1,3 @@
-/*.navbar-nav {
-	background-color: lightgrey;
-}*/
 
 .container {
 	background-color: grey;
@@ -8,11 +5,4 @@
 
 .row {
 	height: 1000px;
-}
-
-/*.container-fluid {
-	background-color: grey;
-	padding: 0px 10px 10px 10px;
-	margin-left: 10px;
-	margin-right: 10px;*/
 }
