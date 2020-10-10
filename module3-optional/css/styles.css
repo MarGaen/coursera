@@ -1,0 +1,30 @@
+
+* {
+	
+}
+
+.container {
+	
+}
+
+.section {
+	height: 700px;
+	background-color: lightgrey;
+	padding: 0px 10px 10px 10px;
+}
+
+/*top padding for section titles (Chicken, Beef, Sushi)*/
+h3 {
+	padding-top: 5px;
+}
+
+/*positions "Back to Top" in the bottom right corner*/
+div.section {
+	position: relative;
+}
+
+.section div {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}

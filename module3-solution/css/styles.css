@@ -1,8 +1,15 @@
 
-.container {
-	background-color: grey;
+#navbar-brand {
+	font-size: 2em;
 }
 
-.row {
+#section {
+	background-color: lightgrey;
 	height: 1000px;
+	padding: 0px 10px 10px 10px;
+	margin-bottom: 15px
+}
+
+h3 {
+	padding-top: 10px;
 }
