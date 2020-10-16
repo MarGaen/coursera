@@ -13,3 +13,23 @@
 h3 {
 	padding-top: 10px;
 }
+
+.navbar-default {
+	/*background-color: lightgreen;*/
+}
+
+.navbar-toggle {
+	/*background-color: lightgreen;*/
+}
+
+#span {
+	/*background-color: blue;*/
+}
+
+.btn-default {
+	/*background-color: lightgrey;*/
+}
+
+#bs-example-navbar-collapse-1 {
+	/*background-color: lightgreen;*/
+}
